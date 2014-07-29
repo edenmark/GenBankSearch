@@ -7,7 +7,7 @@
 #    Searches the GenBank databases for a specified search and outputs all results
 #    and results since your last program run
 #
-#    Copyright (C) 2014 Evan Denmark
+#    Copyright (C) 2014 Evan Denmark and Matthew Neave
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
