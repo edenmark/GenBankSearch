@@ -193,4 +193,3 @@ new_file.close()
 num_new = number
 print 'There are ', all_num, 'results of your entire search.'
 print 'There are ', num_new, 'new studies since the previous program run.'
-
